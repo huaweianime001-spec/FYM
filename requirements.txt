@@ -1,0 +1,18 @@
+# Wan 2.2 TI2V 5B — Follow-Your-Motion-style workflow (Diffusers).
+# Install a CUDA build of PyTorch first (see README), then: pip install -r requirements.txt
+
+diffusers>=0.38.0
+transformers>=4.46.0
+accelerate>=0.34.0
+safetensors>=0.4.0
+sentencepiece>=0.2.0
+protobuf>=4.25.0
+pillow>=10.0.0
+numpy>=1.26.0
+opencv-python-headless>=4.9.0
+imageio>=2.34.0
+imageio-ffmpeg>=0.5.0
+ftfy>=6.2.0
+regex>=2024.0.0
+huggingface_hub>=0.24.0
+bitsandbytes>=0.43.0
